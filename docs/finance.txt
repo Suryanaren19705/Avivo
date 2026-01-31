@@ -1,0 +1,10 @@
+Finance focuses on managing money, investments, and risk.
+
+Credit risk refers to the probability that a borrower fails to repay a loan.
+Loan default happens when repayments are missed for more than 90 days.
+
+Banks use machine learning models like logistic regression and XGBoost for credit scoring.
+Fraud detection identifies abnormal transaction behavior.
+
+Interest rate represents the cost of borrowing money.
+Higher credit risk usually results in higher interest rates.

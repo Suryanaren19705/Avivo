@@ -1,0 +1,7 @@
+Healthcare focuses on diagnosis, treatment, and prevention of diseases.
+
+Electronic Health Records store patient medical history digitally.
+Medical imaging techniques such as MRI and CT scans assist diagnosis.
+
+Machine learning is used for disease prediction and medical image segmentation.
+Telemedicine enables remote patient consultations.
